@@ -1,0 +1,10 @@
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\bin\Debug\1.DönemSonuSoru2.exe.config
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\bin\Debug\1.DönemSonuSoru2.exe
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\bin\Debug\1.DönemSonuSoru2.pdb
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\1.DönemSonuSoru2.csproj.AssemblyReference.cache
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\_1.DönemSonuSoru2.Form1.resources
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\_1.DönemSonuSoru2.Properties.Resources.resources
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\1.DönemSonuSoru2.csproj.GenerateResource.cache
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\1.DönemSonuSoru2.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\1.DönemSonuSoru2.exe
+C:\C# Form belgeler\1.DönemSonuSoru2\1.DönemSonuSoru2\obj\Debug\1.DönemSonuSoru2.pdb
